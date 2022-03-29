@@ -1,2 +1,2 @@
 # flask-blog
-Örnek Flask Projesi
+Simple Flask Project
