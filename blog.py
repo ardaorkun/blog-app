@@ -38,7 +38,7 @@ class ArticleForm(Form):
     content = TextAreaField("Makale İçeriği",validators=[validators.Length(min = 10)])
 
 app = Flask(__name__)
-app.secret_key = "blog1010"
+
 
 # MySQL Konfigurasyonu.
 app.config["MYSQL_HOST"] ="localhost"
