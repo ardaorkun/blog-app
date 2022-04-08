@@ -1,2 +1,2 @@
 # flask-blog
-Simple Blog Project With Flask
+Simple Blog Project with Flask
